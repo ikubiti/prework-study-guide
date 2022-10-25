@@ -1,2 +1,2 @@
 # prework-study-guide
-A study guide for course pre-work
+A study guide to assist with notes taking for UCF-Code course pre-work
